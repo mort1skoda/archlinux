@@ -23,6 +23,8 @@ loadkeys no
 To verify the boot mode, list the efivars directory:
 ls /sys/firmware/efi/efivars
 
+and then...
+
 </pre>
 
 
