@@ -20,5 +20,7 @@ sudo dd bs=4M if=archlinux-2023.01.01-x86_64.iso of=/dev/sdb conv=fsync oflag=di
 
 <pre>
 loadkeys no
+To verify the boot mode, list the efivars directory:
+ls /sys/firmware/efi/efivars
 
 </pre
