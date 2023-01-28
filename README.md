@@ -24,6 +24,7 @@ To verify the boot mode, list the efivars directory:
 ls /sys/firmware/efi/efivars
 
 and then... we continue.
+to work
 
 
 </pre>

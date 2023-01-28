@@ -1,0 +1,14 @@
+unalias -a
+
+alias a='alias'
+alias l='ls -la --color --group-directories-first'
+alias gs='git status'
+alias gr='git remote -v'
+DATE=$(date +"[%Y-%m-%d %H:%M:%S]")
+alias gc='git commit -m "$DATE" '
+alias gp='git push'
+alias ga='git add '
+alias ,ga='vim .git_aliases && source .git_aliases'
+
+echo "Sourced: .git_aliases"
+
