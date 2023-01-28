@@ -23,7 +23,17 @@ loadkeys no
 
 To verify the boot mode, list the efivars directory:
 ls /sys/firmware/efi/efivars
+   If the command shows the directory without error,
+   then the system is booted in UEFI mode.
 
+ip link
+ping -c 4 archlinux.org
+
+   Note: In the installation image, systemd-networkd, systemd-resolved,
+   iwd and ModemManager are preconfigured and enabled by default.
+   That will not be the case for the installed system.
+
+timedatectl status
 
 
 </pre>
