@@ -138,5 +138,9 @@ Git:
 ====
 sudo pacman -S git github-cli -y
 
+update system:
+==============
+sudo pacman -Syyu
+
 
 </pre>
