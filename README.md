@@ -154,6 +154,6 @@ sudo pacman -Syyu
 Added aliases to .bash_aliases:
 psyu='sudo pacman -Syu'
 ps='sudo pacman -S '
-
+-------
 
 </pre>
