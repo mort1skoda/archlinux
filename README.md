@@ -126,4 +126,17 @@ EDITOR=/usr/bin/vim visudo
 
 Put this at top of sudoers file:
 Defaults editor=/usr/bin/vim
+
+Go down to the first # %wheel
+and uncomment it
+
+ssh after reboot:
+=================
+ssh m@192.168.0.199
+
+Git:
+====
+sudo pacman -S git github-cli -y
+
+
 </pre>
