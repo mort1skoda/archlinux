@@ -138,6 +138,13 @@ Git:
 ====
 sudo pacman -S git github-cli -y
 gh auth login
+mkdir /home/m/clone
+cd /home/m/clone
+git clone https://github.com/mort1skoda/archlinux.git
+cd archlinux
+. .git_aliases
+a
+
 
 
 update system:
