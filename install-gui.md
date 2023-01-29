@@ -15,6 +15,7 @@ sudo pacman -S xorg xterm xorg-init
 To test type:
 startx
 
+s pacman -S xfce4
 
 
 
