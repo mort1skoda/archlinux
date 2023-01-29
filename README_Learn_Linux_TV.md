@@ -173,7 +173,7 @@ exit
 
 genfstab -U /mnt >> /mnt/etc/fstab
 umount -a
-
+reboot
 
 </pre>
 
