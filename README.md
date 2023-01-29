@@ -144,5 +144,6 @@ update system:
 ==============
 sudo pacman -Syyu
 
+Now I am on archlinux @ AM1
 
 </pre>
