@@ -15,9 +15,13 @@ sudo pacman -S xorg xterm xorg-init
 To test type:
 startx
 
+---
+
 s pacman -S xfce4
 
-
+Create .xinitrc in ~ directory
+setxkbmap no &
+exec startxfce4
 
 </pre>
 
