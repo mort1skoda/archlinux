@@ -137,6 +137,8 @@ ssh m@192.168.0.199
 Git:
 ====
 sudo pacman -S git github-cli -y
+gh auth login
+
 
 update system:
 ==============
