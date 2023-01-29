@@ -151,6 +151,9 @@ update system:
 ==============
 sudo pacman -Syyu
 
-Now I am on archlinux @ AM1
+Added aliases to .bash_aliases:
+psyu='sudo pacman -Syu'
+ps='sudo pacman -S '
+
 
 </pre>
