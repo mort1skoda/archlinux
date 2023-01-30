@@ -5,7 +5,9 @@
 <pre>
 sudo pacman -S pulseaudio
 sudo pacman -S pavucontrol
-yay -S paman
+
+You have to restart computer,
+to make it start correct.
 
 </pre>
 
