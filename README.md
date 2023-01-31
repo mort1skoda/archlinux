@@ -2,14 +2,17 @@
 ### My private testing of git gh auth clone push pull
 
 #### Start with clone:
-<pre>
+
 ¨¨¨
 git clone https://github.com/mort1skoda/gitTestAndTut
 ¨¨¨
 
+----
+
 
 
 [archlinux.org/download](https://archlinux.org/download/)
+
 
 <pre>
 You get a torrent file like this:
