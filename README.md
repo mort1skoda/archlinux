@@ -23,7 +23,7 @@ cd gitTestAndTut
 
 
 ```
-copy1
+vim newRepo.txt.md
 ```
 
 
