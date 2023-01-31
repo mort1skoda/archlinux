@@ -21,22 +21,18 @@ git clone https://github.com/mort1skoda/gitTestAndTut.git
 cd gitTestAndTut
 ```
 
-
 ```
-vim newRepo.txt.md
+vim new.repo.txt.md
 ```
-
-
 
 ```
 copy box2
 ```
-
-
 
 ```
 copy box3
 ```
 
 
+---------------------------------------------------------------
 
