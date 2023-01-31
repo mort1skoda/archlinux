@@ -23,7 +23,7 @@ cd gitTestAndTut
 
 
 ```
-copy
+copy1
 ```
 
 
@@ -35,7 +35,7 @@ copy box2
 
 
 ```
-copy box1
+copy box3
 ```
 
 
