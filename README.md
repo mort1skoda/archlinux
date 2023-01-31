@@ -1,9 +1,36 @@
-gitTestAndTut
-== 
-My private testing of git gh auth clone push pull
-===
-Start with clone:
-====
+## gitTestAndTut
+### My private testing of git gh auth clone push pull
+
+
+#### create a folder for your repos:
+```
+mkdir -p ~/repo
+cd ~/repo
+```
+---
+
+#### install git and github-cli
+```
+sudo pacman -S git github-cli -y
+```
+
+
+
+
+#### create a folder for your repos:
+```
+mkdir -p ~/repo
+cd ~/repo
+```
+---
+
+
+
+
+
+
+
+#### clone:
 
 ```
 git clone https://github.com/mort1skoda/gitTestAndTut.git
