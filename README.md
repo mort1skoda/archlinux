@@ -6,7 +6,7 @@ Start with clone:
 ====
 
 ```
-git clone https://github.com/mort1skoda/gitTestAndTut
+git clone https://github.com/mort1skoda/gitTestAndTut.git
 ```
 
 
