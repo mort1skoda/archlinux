@@ -20,18 +20,18 @@ cd ~/repo
 git clone https://github.com/mort1skoda/gitTestAndTut.git
 cd gitTestAndTut
 ```
----
 
 
 ```
+copy
 ```
----
+
 
 
 ```
 copy box2
 ```
----
+
 
 
 ```
