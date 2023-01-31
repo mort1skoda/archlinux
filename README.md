@@ -17,7 +17,7 @@ git clone https://github.com/mort1skoda/gitTestAndTut
 
 
 Git:
-====
+=
 sudo pacman -S git github-cli -y
 gh auth login
 mkdir /home/m/clone
