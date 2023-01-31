@@ -21,20 +21,17 @@ git clone https://github.com/mort1skoda/gitTestAndTut.git
 cd gitTestAndTut
 ```
 
+#### open a file and do some work:
 ```
 vim new.repo.txt.md
 ```
 
+#### push your hard work onto github.com:
 ```
-copy box2
+git status
+git remote -v
+git add new.repo.txt.md
+git commit -m "short msg or I use $DATE"
+git push
 ```
-
-```
-copy box3
-```
-
-
----
-
-
 
