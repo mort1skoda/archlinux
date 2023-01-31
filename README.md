@@ -1,12 +1,11 @@
 ## gitTestAndTut
 ### My private testing of git gh auth clone push pull
 
-
 #### install git and github-cli
 ```
+sudo pacman -Syu
 sudo pacman -S git github-cli -y
 gh auth login
-
 ```
 
 
