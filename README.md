@@ -2,18 +2,12 @@
 ### My private testing of git gh auth clone push pull
 
 
-#### create a folder for your repos:
-```
-mkdir -p ~/repo
-cd ~/repo
-```
----
-
 #### install git and github-cli
 ```
 sudo pacman -S git github-cli -y
-```
+gh auth login
 
+```
 
 
 
