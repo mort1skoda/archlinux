@@ -35,8 +35,10 @@ git commit -m "short msg or I use $DATE"
 git push
 ```
 
+INFO:
+=====
 <pre>
-pre test
-box
+If you call your file(s) filname.txt.md
+all boxes wil have the copy function!
 </pre>
 
