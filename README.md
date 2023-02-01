@@ -1,3 +1,15 @@
+Branch has been renamed from master to main :::::
+
+```
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+```
+
+
+
+
 ## gitTestAndTut
 ### Branch: master
 #### My private testing of git gh auth clone push pull
