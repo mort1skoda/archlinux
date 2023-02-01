@@ -1,4 +1,5 @@
-### gitTestAndTut
+## gitTestAndTut
+### Branch: master
 #### My private testing of git gh auth clone push pull
 
 #### install git and github-cli
@@ -39,6 +40,6 @@ INFO:
 =====
 <pre>
 If you call your file(s) filname.txt.md
-all boxes wil have the copy function!
+all pre section boxes wil have the copy function!
 </pre>
 
