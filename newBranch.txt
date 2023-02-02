@@ -4,6 +4,7 @@ git checkout quick-fix
 [
 do your fixing add/delete/modify
 ]
+
 git add
 git commit
 (but do NOT push)
