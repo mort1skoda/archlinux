@@ -4,6 +4,7 @@
 #### add theme
 
     Add dracula theme to lf
+    Make lf show hidden files by default
 
 ---
 
