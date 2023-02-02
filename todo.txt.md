@@ -1,8 +1,11 @@
 ### TODO:
-#### vifm
+#### lf
 
-<pre>
-Add Dracula theme to vifm
-</pre>
+#### add theme
 
+    Add dracula theme to lf
+
+---
+
+@mhds 2034.02.01_11:41
 
