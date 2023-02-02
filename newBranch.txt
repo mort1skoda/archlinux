@@ -1,0 +1,13 @@
+git branch quick-fix
+git checkout quick-fix
+
+[
+do your fixing add/delete/modify
+]
+git add
+git commit
+(but do NOT push)
+
+git checkout master
+git merge quick-fix
+
