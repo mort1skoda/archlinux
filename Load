@@ -1,0 +1,11 @@
+gh repo clone mort1skoda/tut.github
+install.packages(
+  'TwoSampleMR',
+  repos = c(
+    'https://mrcieu.r-universe.dev',
+    'https://cloud.r-project.org'
+  )
+install.packages("remotes")
+remotes::install_github("MRCIEU/TwoSampleMR")
+
+
