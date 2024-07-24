@@ -5,4 +5,5 @@ install.packages(
     'https://mrcieu.r-universe.dev',
     'https://cloud.r-project.org'
   )
-)
+install.packages("remotes")
+remotes::install_github("MRCIEU/TwoSampleMR")
